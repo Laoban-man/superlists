@@ -387,3 +387,65 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1619174592242	Marionette	ERROR	[15] No reply from Marionette:Register
 JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
 1619174593087	Marionette	INFO	Stopped listening on port 42731
+1619175419849	geckodriver	INFO	Listening on 127.0.0.1:41613
+1619175419855	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1I1NRB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619175422035	Marionette	INFO	Listening on port 36767
+1619175422091	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619175422104	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1619175423637	Marionette	INFO	Stopped listening on port 36767
+1619175424150	geckodriver	INFO	Listening on 127.0.0.1:52145
+1619175425158	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7e2w8j"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619175427443	Marionette	INFO	Listening on port 36611
+1619175427491	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619175427510	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1619175428359	Marionette	INFO	Stopped listening on port 36611
+JavaScript error: resource://gre/modules/osfile/osfile_native.jsm, line 64: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsINativeOSFileInternalsService.read]
+1619175428864	geckodriver	INFO	Listening on 127.0.0.1:55141
+1619175429869	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8UHLHs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619175432019	Marionette	INFO	Listening on port 41891
+1619175432111	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619175432134	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1619175432989	Marionette	INFO	Stopped listening on port 41891
+1619175433466	geckodriver	INFO	Listening on 127.0.0.1:34729
+1619175433473	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFatwYN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619175435679	Marionette	INFO	Listening on port 35749
+1619175435800	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619175435825	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1619175436737	Marionette	INFO	Stopped listening on port 35749
+1619175559209	geckodriver	INFO	Listening on 127.0.0.1:57439
+1619175559215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEOHl4R"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619175561464	Marionette	INFO	Listening on port 46697
+1619175561560	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619175561577	Marionette	ERROR	[15] No reply from Marionette:Register
+1619175562242	Marionette	INFO	Stopped listening on port 46697
+1619175562643	geckodriver	INFO	Listening on 127.0.0.1:48767
+1619175563649	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBHuO4K"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619175565993	Marionette	INFO	Listening on port 36703
+1619175566081	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619175566101	Marionette	ERROR	[15] No reply from Marionette:Register
+1619175566706	Marionette	INFO	Stopped listening on port 36703
+1619175567130	geckodriver	INFO	Listening on 127.0.0.1:39431
+1619175568136	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejAoAfx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619175570693	Marionette	INFO	Listening on port 33503
+1619175570780	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619175570799	Marionette	ERROR	[15] No reply from Marionette:Register
+1619175571224	Marionette	INFO	Stopped listening on port 33503
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
